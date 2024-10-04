@@ -1,0 +1,15 @@
+openai==1.45.0
+langchain== 0.2.16
+langchain-anthropic== 0.1.23
+langchain-openai== 0.1.23
+langchain-community== 0.2.16
+langchain-google-genai== 1.0.10
+langchain-upstage== 0.2.2
+langchainhub== 0.1.21
+langgraph== 0.2.19
+langserve== 0.2.3
+langsmith== 0.1.120
+langchain-core== 0.2.39
+langdetect== 1.0.9
+langchain-teddynote== 0.0.31
+streamlit== 1.38.0
